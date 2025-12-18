@@ -242,7 +242,7 @@ footer p{
       <img src="images/tv.png">
       <h3>TV</h3>
       <p>Best TV experience</p>
-      <div class="price">Rs. 55,000</div>
+      <div class="price">Rs. 55,00</div>
       <button>Add to Cart</button>
     </div>
 
