@@ -211,6 +211,10 @@
         <label>Name</label>
         <input type="text" required />
       </div>
+       <div class="form-group">
+              <label>Username</label>
+              <input type="text" required />
+            </div>
       <div class="form-group">
         <label>Email</label>
         <input type="email" required />
